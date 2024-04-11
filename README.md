@@ -9,10 +9,19 @@ hello! my name is alisa katsionova. i am a computer science student at universit
 ---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/alisa-katsionova">
-    <img src="https://img.shields.io/badge/-alisa_katsionova-9e9e9e?style=for-the-badge&logo=linkedin&logoColor=pink" alt="LinkedIn Badge"/>
+  <i>connect with me </i>♡
+</p>
+<p align="center">
+  <a href="mailto:alisakatsionova@gmail.com">
+    <img src="https://img.shields.io/static/v1?label=&message=EMAIL&color=9e9e9e&style=for-the-badge&logo=alwaysdata&logoColor=pink" alt="Email Badge"/>
   </a>
-  &nbsp; &nbsp; &nbsp; <!-- This adds space between the two badges -->
+  &nbsp; <!-- This adds space between the two badges -->
+  <a href="https://www.linkedin.com/in/alisa-katsionova">
+    <img src="https://img.shields.io/badge/-LINKEDIN-9e9e9e?style=for-the-badge&logo=linkedin&logoColor=pink" alt="LinkedIn Badge"/>
+  </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/AlisaK13003?tab=followers">
     <img src="https://img.shields.io/github/followers/AlisaK13003?label=Follow&labelColor=9e9e9e&logo=github-sponsors&logoColor=pink&color=pink&style=for-the-badge" alt="GitHub Followers Badge"/>
   </a>
