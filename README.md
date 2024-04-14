@@ -4,7 +4,7 @@ hello! my name is alisa katsionova. i am a computer science student at universit
 
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AlisaK13003&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=FFFFFF&background=9E9E9E&stroke=FFC0CB&currStreakNum=FFFFFF&sideNums=FFFFFF&ring=FFC0CB&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFC0CB" alt="GitHub Streak"/>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AlisaK13003&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=FFFFFF&background=9E9E9E&stroke=FFC0CB&currStreakNum=FFFFFF&sideNums=FFFFFF&ring=FFC0CB&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=EB545400" alt="GitHub Streak"/>
   </a>
 </p>
 <p align="center">
