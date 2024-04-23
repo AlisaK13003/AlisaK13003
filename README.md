@@ -1,6 +1,6 @@
 ## alisa katsionova
 
-<code>hello! my name is alisa katsionova. i am a computer science student at university of central florida learning the latest technlogies to become a full-stack web developer.i am passionate about ui/ux design and creating responsive, practical, and beautiful websites.</code>
+<code>hello! my name is alisa katsionova. i am a computer science student at university of central florida learning the latest technologies to become a full-stack web developer.i am passionate about ui/ux design and creating responsive, practical, and beautiful websites.</code>
 
 
 <p align="center">
