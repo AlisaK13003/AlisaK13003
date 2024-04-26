@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <code>i am a rising junior student pursuing a bachelor's degree in computer science at university of central florida. i'm a quick learner and keep myself to a high standard, keeping tutorial projects to a minimum and ideally develop project ideas that i am passionate about and have a practical use for. i love all things art, and find great joy in designing.</code>
+  <code>i am a rising junior student pursuing a bachelor's degree in computer science at university of central florida. i'm a quick learner and keep myself to a high standard, keeping tutorial projects to a minimum and ideally develop projects that i am passionate about and have a practical use for. i love all things art, and find great joy in designing.</code>
 </p>
 
 
