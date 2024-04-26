@@ -32,8 +32,8 @@
 
 ---
 
-<p style="color : gold" align="center">
-  ♡ $${\color{orange}connect \space \color{yellow}with \space \color{white}me}$$ ♡
+<p align="center">
+  ♡ $${\color{white}connect \space \color{yellow}with \space \color{orange}me}$$ ♡
 </p>
 
 <p align="center">
