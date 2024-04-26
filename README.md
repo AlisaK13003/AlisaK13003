@@ -33,7 +33,7 @@
 ---
 
 <p align="center">
-  ♡ $${\color{white}connect \space \color{yellow}with \space \color{orange}me}$$ ♡
+  $$♡ {\space \color{orange}connect \space \color{orange}with \space \color{orange}me \space} ♡ $$ 
 </p>
 
 <p align="center">
