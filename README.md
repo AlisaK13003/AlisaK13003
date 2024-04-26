@@ -17,14 +17,32 @@
 
 
 
-> 🌾 ~ i'm currently learning: <b>javascript</b> and <b>textualize</b>
+> 🐣 ~ i'm currently learning: <b>node.js</b> and <b>textualize</b>
 
 
 > 💛 ~ talk to me about: <b>web design</b>, <b>game dev</b>
 
 
-
 > 🎻 ~ fun fact: i play the violin in my free time
+
+
+> 🌻 ~ i am experienced in:
+> > <b>html
+> > 
+> > css
+> > > </b><i> tailwind</i><b>
+> > 
+> > javascript
+> >
+> > git
+> >
+> > python
+> > > </b><i> numpy, tensorflow, pandas</i><b>
+> > 
+> > linux
+> >  </b>
+
+
 
 <p align="center">
   <img src="https://github.com/AlisaK13003/assets/blob/main/pikachuRunpixel.gif" style="width: 400px;"/>
