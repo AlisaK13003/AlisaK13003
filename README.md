@@ -17,7 +17,7 @@
 
 
 
-> 🐣 ~ i'm currently learning: <b>node.js</b> and <b>textualize</b>
+> 🐣 ~ i'm currently learning: <b>react</b>, <b>typescript</b>, and <b>textualize</b>
 
 
 > 💛 ~ talk to me about: <b>web design</b>, <b>game dev</b>
