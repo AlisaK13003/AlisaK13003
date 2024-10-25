@@ -1,4 +1,4 @@
-![pixel_CityLandscape(1)](https://github.com/AlisaK13003/AlisaK13003/assets/94255158/799e04ab-b08b-4439-ab41-780243986d1e)
+<img src="https://github.com/AlisaK13003/assets/blob/main/banner.gif" alt="pixel_CityLandscape(1)" width="100%" height="auto">
 
 
 <p align="center">
@@ -17,27 +17,30 @@
 
 
 
-> 🐣 ~ i'm currently learning: <b>react</b>, <b>typescript</b>, and <b>textualize</b>
+> 🐣 ~ i'm currently learning: <b>c++</b>, <b>DSA</b>, and <b>godot</b>
 
 
-> 💛 ~ talk to me about: <b>web design</b>, <b>game dev</b>
+> 💛 ~ talk to me about: <b>video games</b>, <b>music</b>, <b></b>
 
 
 > 🎻 ~ fun fact: i play the violin in my free time
 
 
 > 🌻 ~ i am experienced in:
-> > <b>html
+> > <b>react
 > > 
-> > css
-> > > </b><i> tailwind</i><b>
-> > 
-> > javascript
+> > > </b> <i> html, css, javascript</i><b>
 > >
-> > git
+> > c
+> >
+> > java
 > >
 > > python
 > > > </b><i> numpy, tensorflow, pandas</i><b>
+> >
+> > firebase
+> > 
+> > git
 > > 
 > > linux
 > >  </b>
