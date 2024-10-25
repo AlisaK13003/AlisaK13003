@@ -20,7 +20,7 @@
 > 🐣 ~ i'm currently learning: <b>c++</b>, <b>DSA</b>, and <b>godot</b>
 
 
-> 💛 ~ talk to me about: <b>video games</b>, <b>music</b>, <b></b>
+> 💛 ~ talk to me about: <b>video games</b>, <b>music</b>, <b>traveling</b>
 
 
 > 🎻 ~ fun fact: i play the violin in my free time
