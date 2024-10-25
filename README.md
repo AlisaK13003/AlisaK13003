@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <code>i am a rising junior student pursuing a bachelor's degree in computer science at university of central florida. i'm a quick learner and keep myself to a high standard, keeping tutorial projects to a minimum and ideally develop projects that i am passionate about and have a practical use for. i love all things art and find great joy in designing, while also paired with strong math and problem-solving skills.</code>
+  <code>i am a rising junior pursuing a bachelor's degree in computer science at the university of central florida. as a quick learner with high standards, i minimize tutorial-based projects, focusing instead on developing practical, passion-driven projects with real-world applications. i have a strong foundation in math and problem-solving, paired with a love for art and design. i'm also an avid gamer, and in my free time, i enjoy world-building for my own video game concepts and bringing them to life as a developer</code>
 </p>
 
 
