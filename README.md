@@ -4,7 +4,7 @@
 
 <p align="center">
   <img
-    src="https://github.com/AlisaK13003/assets/blob/main/banner.gif"
+    src="https://github.com/AlisaK13003/assets/blob/main/eevee.gif"
     alt="Hi, I'm Alisa — Product Engineer"
     width="100%"
     height="auto"
