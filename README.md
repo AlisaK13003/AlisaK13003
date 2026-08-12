@@ -1,6 +1,5 @@
 <!-- =========================================================
      BANNER
-     Replace the src with your updated Product Engineer banner.
      ========================================================= -->
 
 <p align="center">
@@ -54,8 +53,7 @@ connected with trusted contacts simple and approachable.
 
 **Product Design · UI/UX · Figma**
 
-<!-- Replace # with the MyLoops project/portfolio URL -->
-[View Project](#)
+<a href="https://myloops.co/" target="_blank" rel="noopener noreferrer">Visit MyLoops ↗</a>
 
 ---
 
@@ -66,7 +64,7 @@ collect, track, and share their personal data.
 
 **Product Design · Frontend · SvelteKit · Vercel**
 
-[Visit Celo](https://www.celo.fyi/)
+<a href="https://www.celo.fyi/" target="_blank" rel="noopener noreferrer">Visit Celo ↗</a>
 
 ---
 
@@ -77,19 +75,21 @@ combat, and character relationships. Developed with a five-person team.
 
 **Game Production · Game Design · Godot · GDScript**
 
-[View Repository](https://github.com/AlisaK13003/sealbound)
+<a href="https://github.com/AlisaK13003/sealbound" target="_blank" rel="noopener noreferrer">View Repository ↗</a>
 
 ---
 
-### 📇 Infolio
+<br>
 
-A contact-management web application that I took from Figma designs through
-frontend implementation, including CRUD workflows and contact-search logic.
+<p align="center">
+  <img
+    src="https://github.com/AlisaK13003/assets/blob/main/pikachuRunpixel.gif"
+    width="300"
+    alt="Running Pixel Pikachu"
+  />
+</p>
 
-**Product Design · Frontend · JavaScript · CRUD**
-
-[View Repository](https://github.com/Arqane-UCF/COP_4331_Small_Project_Public)
-
+<br>
 
 <!-- =========================================================
      TECH STACK
@@ -126,73 +126,54 @@ frontend implementation, including CRUD workflows and contact-search logic.
       alt="GitHub Streak"
     />
   </a>
-
-  <img
-    src="https://github.com/AlisaK13003/assets/blob/main/pichuPixel.gif"
-    width="200"
-    alt="Pixel Pichu"
-  />
 </p>
-
-
-<!-- =========================================================
-     LITTLE GUY
-     obviously he stays
-     ========================================================= -->
-
-<p align="center">
-  <img
-    src="https://github.com/AlisaK13003/assets/blob/main/pikachuRunpixel.gif"
-    width="400"
-    alt="Running Pixel Pikachu"
-  />
-</p>
-
 
 ---
 
 <!-- =========================================================
      CONNECT
-     Add your portfolio URL once your custom domain is ready.
      ========================================================= -->
 
 <h3 align="center">♡ connect with me ♡</h3>
 
 <p align="center">
-
-  <!-- Replace # with your final portfolio URL -->
-  <a href="#">
+  <a href="https://alisakat.dev" target="_blank" rel="noopener noreferrer">
     <img
       src="https://img.shields.io/static/v1?label=&message=PORTFOLIO&color=9e9e9e&style=for-the-badge&logo=googlechrome&logoColor=fbffa6"
       alt="Portfolio"
     />
   </a>
-
-  &nbsp;
-
+  &nbsp;&nbsp;
   <a href="mailto:alisakatsionova@gmail.com">
     <img
       src="https://img.shields.io/static/v1?label=&message=EMAIL&color=9e9e9e&style=for-the-badge&logo=alwaysdata&logoColor=fbffa6"
       alt="Email"
     />
   </a>
-
-  &nbsp;
-
-  <a href="https://www.linkedin.com/in/alisa-katsionova">
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/alisa-katsionova" target="_blank" rel="noopener noreferrer">
     <img
       src="https://img.shields.io/badge/-LINKEDIN-9e9e9e?style=for-the-badge&logo=linkedin&logoColor=fbffa6"
       alt="LinkedIn"
     />
   </a>
-
 </p>
 
 <p align="center">
-  <a href="https://github.com/AlisaK13003?tab=followers">
+  <a href="https://github.com/AlisaK13003?tab=followers" target="_blank" rel="noopener noreferrer">
     <img
       src="https://img.shields.io/github/followers/AlisaK13003?label=Follow&labelColor=9e9e9e&logo=github-sponsors&logoColor=fbffa6&color=fbffa6&style=for-the-badge"
       alt="GitHub Followers"
     />
   </a>
+</p>
+
+<br>
+
+<p align="center">
+  <img
+    src="https://github.com/AlisaK13003/assets/blob/main/pichuPixel.gif"
+    width="120"
+    alt="Pixel Pichu"
+  />
 </p>
