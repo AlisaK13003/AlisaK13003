@@ -57,14 +57,17 @@ connected with trusted contacts simple and approachable.
 
 ---
 
-### 🔒 Celo
+### 🎮 Pokémon Nuzlocke Companion
 
-A privacy platform that helps users understand how the apps on their devices
-collect, track, and share their personal data.
+A Python desktop companion for Pokémon Platinum that decodes live Nintendo DS
+emulator memory through a BizHawk Lua bridge. It automatically tracks party stats,
+EVs, and game-state changes to support EV training and Nuzlocke runs, with review
+prompts for consequential run decisions. Built with a PySide6 UI and backed by
+automated tests and GitHub Actions CI running pytest and Ruff.
 
-**Product Design · Frontend · SvelteKit · Vercel**
+**Python · PySide6 · Lua · Memory Decoding · Tests & CI**
 
-<a href="https://www.celo.fyi/" target="_blank" rel="noopener noreferrer">Visit Celo ↗</a>
+<a href="https://github.com/AlisaK13003/pokemonNuzlockeCompanion" target="_blank" rel="noopener noreferrer">View Repository ↗</a>
 
 ---
 
